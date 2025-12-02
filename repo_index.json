@@ -39,15 +39,6 @@
     "sha1": "db42c8c7e6e4532a7df17d46a4d2efad9e53a518"
   },
   {
-    "path": "run_training_compute_engine.py",
-    "type": "file",
-    "size": 10460,
-    "last_modified": "2025-09-24T05:17:58.761826+00:00",
-    "lang": "py",
-    "line_count": 303,
-    "sha1": "5ba7c4d757c244ecd92520f8f6e82c6a0540dc12"
-  },
-  {
     "path": "pytest.ini",
     "type": "file",
     "size": 261,
@@ -95,11 +86,11 @@
   {
     "path": "Makefile",
     "type": "file",
-    "size": 12863,
-    "last_modified": "2025-09-24T07:57:05.364105+00:00",
+    "size": 13504,
+    "last_modified": "2025-09-24T09:08:10.996088+00:00",
     "lang": null,
-    "line_count": 370,
-    "sha1": "e2b4a5e3b4e3e1bc87cbccf39a3c3dd28484aafa"
+    "line_count": 384,
+    "sha1": "b6be5622283546ea505e2ff107583016b845264e"
   },
   {
     "path": "pyproject.toml",
@@ -113,11 +104,11 @@
   {
     "path": "repo_index.json",
     "type": "file",
-    "size": 420962,
-    "last_modified": "2025-09-23T08:00:03.554311+00:00",
+    "size": 455624,
+    "last_modified": "2025-11-26T07:00:04.636150+00:00",
     "lang": "json",
-    "line_count": 14734,
-    "sha1": "8bb56ca7a2dda1faee8be31c50c8288971a9f88a"
+    "line_count": 15848,
+    "sha1": "2a4c78dc4f38d3e48f65ee0b005c975b24277082"
   },
   {
     "path": ".gitmodules",
@@ -167,11 +158,11 @@
   {
     "path": ".gitignore",
     "type": "file",
-    "size": 1839,
-    "last_modified": "2025-09-22T15:18:52.762572+00:00",
+    "size": 1876,
+    "last_modified": "2025-09-24T08:48:43.941195+00:00",
     "lang": null,
-    "line_count": 148,
-    "sha1": "c0cc2badeef5b91457ccd21e104eeb97011443df"
+    "line_count": 151,
+    "sha1": "40a5cbacfd720cb43af649af0f28150527484746"
   },
   {
     "path": "..html",
@@ -1405,11 +1396,11 @@
   {
     "path": "tools_utilities/scripts/pre_commit_rule_guard.sh",
     "type": "file",
-    "size": 556,
-    "last_modified": "2025-09-24T05:25:02.305409+00:00",
+    "size": 594,
+    "last_modified": "2025-09-24T09:08:10.995969+00:00",
     "lang": "sh",
     "line_count": 24,
-    "sha1": "1dc35e85ab748bef02be3c9799a7be680f5a5f99"
+    "sha1": "3c5eb1464f6dbc21e12687d704ed2383355f58fa"
   },
   {
     "path": "tools_utilities/scripts/generate_readme.py",
@@ -6437,15 +6428,6 @@
     "sha1": "801f2e65ba7b4b2dde73d527e9a9040b0ee28983"
   },
   {
-    "path": "state/tasks/roadmap_tasks/brainstem_segmentation_tasks.md",
-    "type": "file",
-    "size": 14417,
-    "last_modified": "2025-09-21T05:56:17.626730+00:00",
-    "lang": "md",
-    "line_count": 241,
-    "sha1": "286ddf7e32dbd2646678a71c92d063eb34e64bbc"
-  },
-  {
     "path": "state/tasks/roadmap_tasks/brainstem_done_20250924_163932.md",
     "type": "file",
     "size": 6956,
@@ -6455,15 +6437,6 @@
     "sha1": "e6c1c6d9a5e267cec6a05faa9be2e5c2c23e6b57"
   },
   {
-    "path": "state/tasks/roadmap_tasks/cerebellum_tasks.md",
-    "type": "file",
-    "size": 26618,
-    "last_modified": "2025-09-21T07:28:22.047947+00:00",
-    "lang": "md",
-    "line_count": 468,
-    "sha1": "3e64be20f3a16ccf3cbd12c1d89d06e04502ff8b"
-  },
-  {
     "path": "state/tasks/roadmap_tasks/developmental_biology_done_20250924_163932.md",
     "type": "file",
     "size": 6894,
@@ -6471,15 +6444,6 @@
     "lang": "md",
     "line_count": 252,
     "sha1": "b31b5bc885bd21f3dc64831ed616af31bf8aabdb"
-  },
-  {
-    "path": "state/tasks/roadmap_tasks/foundation_layer_tasks.md",
-    "type": "file",
-    "size": 30773,
-    "last_modified": "2025-09-23T00:37:45.953237+00:00",
-    "lang": "md",
-    "line_count": 501,
-    "sha1": "a096dde19b29ae6b99f564cee8b41e877ad6204b"
   },
   {
     "path": "state/tasks/roadmap_tasks/cortex_mapping_pending_20250924_163932.md",
@@ -6543,6 +6507,51 @@
     "lang": "md",
     "line_count": 247,
     "sha1": "443d4280e8e2c373ef5d23e4db2cd160507b4531"
+  },
+  {
+    "path": "state/tasks/roadmap_tasks/unvalidated_tasks/brainstem_segmentation_tasks.md",
+    "type": "file",
+    "size": 14417,
+    "last_modified": "2025-09-21T05:56:17.626730+00:00",
+    "lang": "md",
+    "line_count": 241,
+    "sha1": "286ddf7e32dbd2646678a71c92d063eb34e64bbc"
+  },
+  {
+    "path": "state/tasks/roadmap_tasks/unvalidated_tasks/cerebellum_tasks.md",
+    "type": "file",
+    "size": 26618,
+    "last_modified": "2025-09-21T07:28:22.047947+00:00",
+    "lang": "md",
+    "line_count": 468,
+    "sha1": "3e64be20f3a16ccf3cbd12c1d89d06e04502ff8b"
+  },
+  {
+    "path": "state/tasks/roadmap_tasks/unvalidated_tasks/foundation_layer_tasks.md",
+    "type": "file",
+    "size": 30773,
+    "last_modified": "2025-09-23T00:37:45.953237+00:00",
+    "lang": "md",
+    "line_count": 501,
+    "sha1": "a096dde19b29ae6b99f564cee8b41e877ad6204b"
+  },
+  {
+    "path": "state/tasks/integrations/task_bridge.py",
+    "type": "file",
+    "size": 3617,
+    "last_modified": "2025-09-24T08:34:07.057479+00:00",
+    "lang": "py",
+    "line_count": 88,
+    "sha1": "ef4e5acd6099abf0e4c65c6152690bc9a9406bed"
+  },
+  {
+    "path": "state/tasks/utilities/goal_poll.py",
+    "type": "file",
+    "size": 605,
+    "last_modified": "2025-09-24T08:35:19.957286+00:00",
+    "lang": "py",
+    "line_count": 16,
+    "sha1": "9546ba6747a943b88df2bc3b89ee107132f85af0"
   },
   {
     "path": "state/tasks/validation/VALIDATION_MASTER_INDEX.md",
@@ -7310,6 +7319,33 @@
     "sha1": "1baf50788d7cc9d6b8a3d15e518fb7eaf61262bb"
   },
   {
+    "path": "state/tasks/validation/templates/RUBRIC_MASTER_ROADMAP_CHECKLIST.md",
+    "type": "file",
+    "size": 2642,
+    "last_modified": "2025-09-24T09:13:33.249466+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "e72537f6d538737710cae11ed97c3c53e0bc1202"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_STAGE6_ADULT_CHECKLIST.md",
+    "type": "file",
+    "size": 2640,
+    "last_modified": "2025-09-24T09:13:33.250471+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "9db29111e5d4b8fdf84c7f4479d50d3453d20898"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_STAGE3_EARLY_POSTNATAL_CHECKLIST.md",
+    "type": "file",
+    "size": 2650,
+    "last_modified": "2025-09-24T09:13:33.250010+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "9fcc5eeb33336dfc7089aef9935bcbae20a549a9"
+  },
+  {
     "path": "state/tasks/validation/templates/KPI_MAPPING_TEMPLATE.md",
     "type": "file",
     "size": 620,
@@ -7328,6 +7364,15 @@
     "sha1": "7d30719992bf9fb17fb11cb4af0f8ce63c18aa60"
   },
   {
+    "path": "state/tasks/validation/templates/RUBRIC_STAGE1_EMBRYONIC_CHECKLIST.md",
+    "type": "file",
+    "size": 2644,
+    "last_modified": "2025-09-24T09:13:33.249680+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "f016be54bc04e647ea730589aad2549db67b4c13"
+  },
+  {
     "path": "state/tasks/validation/templates/RUBRIC_TEMPLATE.md",
     "type": "file",
     "size": 2648,
@@ -7335,6 +7380,24 @@
     "lang": "md",
     "line_count": 99,
     "sha1": "1a2677f7f6fd92281daa5b121e24fb6d30a94d75"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_STAGE2_FETAL_CHECKLIST.md",
+    "type": "file",
+    "size": 2640,
+    "last_modified": "2025-09-24T09:13:33.249843+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "562d8e450ddfc252624ea0a649cefe948e570382"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_STAGE5_ADOLESCENCE_CHECKLIST.md",
+    "type": "file",
+    "size": 2646,
+    "last_modified": "2025-09-24T09:13:33.250330+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "ecd63d6e640ce9be0b3cc4385dd1fec09c721558"
   },
   {
     "path": "state/tasks/validation/templates/EVIDENCE_TEMPLATE.md",
@@ -7346,22 +7409,49 @@
     "sha1": "7ddb496e849c398cc0ca250e741a178cb6373586"
   },
   {
-    "path": "state/memory/episodic.json.gz",
+    "path": "state/tasks/validation/templates/RUBRIC_APPENDIX_C_BENCHMARKS_CHECKLIST.md",
     "type": "file",
-    "size": 124,
-    "last_modified": "2025-09-17T07:46:11.565018+00:00",
-    "lang": "gz",
-    "line_count": null,
-    "sha1": "c2c50b4b0716991c7201d6c18bbeda9538e81f88"
+    "size": 2649,
+    "last_modified": "2025-09-24T09:13:33.251132+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "3661129cb36775399b070b77de310340e580813d"
   },
   {
-    "path": "state/memory/ltm.json.gz",
+    "path": "state/tasks/validation/templates/RUBRIC_SYSTEM_DESIGN_CHECKLIST.md",
     "type": "file",
-    "size": 130,
-    "last_modified": "2025-09-17T07:46:11.565088+00:00",
-    "lang": "gz",
-    "line_count": null,
-    "sha1": "ce3752315d8ad8592352bf5a0ad1ce062b6750f4"
+    "size": 2641,
+    "last_modified": "2025-09-24T09:13:33.250798+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "3772ec6dd015d6b4c446a18b0b8125e5abf3a93f"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_DELIVERABLES_CHECKLIST.md",
+    "type": "file",
+    "size": 2640,
+    "last_modified": "2025-09-24T09:13:33.250964+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "c45189439bb37db1dcb5c62558944cfe36022829"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_STAGE4_CHILDHOOD_CHECKLIST.md",
+    "type": "file",
+    "size": 2644,
+    "last_modified": "2025-09-24T09:13:33.250166+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "f8edaa02a9a346e6a03c53119ed435f94d70173a"
+  },
+  {
+    "path": "state/tasks/validation/templates/RUBRIC_MAIN_INTEGRATIONS_CHECKLIST.md",
+    "type": "file",
+    "size": 2645,
+    "last_modified": "2025-09-24T09:13:33.250630+00:00",
+    "lang": "md",
+    "line_count": 99,
+    "sha1": "f648d4122dae06a770336aa01d6344c7db4f2b83"
   },
   {
     "path": "state/quark_state_system/__pycache__/",
@@ -7839,29 +7929,29 @@
   {
     "path": "state/todo/todo_history.json",
     "type": "file",
-    "size": 1786,
-    "last_modified": "2025-09-24T07:54:46.738121+00:00",
+    "size": 2365,
+    "last_modified": "2025-09-24T08:20:53.037069+00:00",
     "lang": "json",
-    "line_count": 80,
-    "sha1": "1cefcdc5d35e49a23579daea706a4c0f68f37420"
+    "line_count": 104,
+    "sha1": "759b642b47ce24bfdcd2ce29e91cd6edb4e36516"
   },
   {
     "path": "state/todo/todo_state.json",
     "type": "file",
-    "size": 179,
-    "last_modified": "2025-09-24T07:54:46.738210+00:00",
+    "size": 190,
+    "last_modified": "2025-09-24T08:20:53.037206+00:00",
     "lang": "json",
     "line_count": 7,
-    "sha1": "30ba5857f96ff9f1aae222131c5e5ff57236de28"
+    "sha1": "9cf6c0040abdd9442c207d5d22241fafaf5eb325"
   },
   {
     "path": "state/todo/core/validate_launcher.py",
     "type": "file",
-    "size": 11102,
-    "last_modified": "2025-09-24T05:52:53.384257+00:00",
+    "size": 11137,
+    "last_modified": "2025-09-24T09:08:10.996333+00:00",
     "lang": "py",
-    "line_count": 293,
-    "sha1": "f7a68a401ca091122fb9e5018abfcfda1bd9baf9"
+    "line_count": 294,
+    "sha1": "774a00a0cba0c35d7f6c5a198372235e7d1333ca"
   },
   {
     "path": "state/todo/core/benchmarking_handler.py",
@@ -7893,11 +7983,11 @@
   {
     "path": "state/todo/core/context_analyzer.py",
     "type": "file",
-    "size": 12762,
-    "last_modified": "2025-09-24T07:27:12.643458+00:00",
+    "size": 13625,
+    "last_modified": "2025-09-24T08:20:41.104290+00:00",
     "lang": "py",
-    "line_count": 277,
-    "sha1": "4b8409598d2f55c2af7c7f69a8bb8ee61013664f"
+    "line_count": 293,
+    "sha1": "9984cb55a049169b5794fe06ce59c1b67474f8ee"
   },
   {
     "path": "state/todo/core/state_system_launcher.py",
@@ -7956,11 +8046,11 @@
   {
     "path": "state/todo/core/brain_handler.py",
     "type": "file",
-    "size": 20141,
-    "last_modified": "2025-09-24T07:53:25.943292+00:00",
+    "size": 24198,
+    "last_modified": "2025-09-24T08:15:40.428109+00:00",
     "lang": "py",
-    "line_count": 485,
-    "sha1": "c3467756545f6ab1e43c7ea80203b59dbc7f5d23"
+    "line_count": 582,
+    "sha1": "5ac7d0f2746b460c708fe89b97334a059d4fb88d"
   },
   {
     "path": "state/todo/core/deployment_handler.py",
@@ -7975,7 +8065,7 @@
     "path": "state/todo/core/command_router.py",
     "type": "file",
     "size": 11370,
-    "last_modified": "2025-09-24T07:56:52.542445+00:00",
+    "last_modified": "2025-09-24T08:00:40.506174+00:00",
     "lang": "py",
     "line_count": 288,
     "sha1": "8a420e0da26ca42362985ea8af125b58e8a518e6"
@@ -8094,7 +8184,7 @@
     "path": "scripts/README.md",
     "type": "file",
     "size": 1490,
-    "last_modified": "2025-09-24T07:59:13.081722+00:00",
+    "last_modified": "2025-09-24T08:00:40.507502+00:00",
     "lang": "md",
     "line_count": 26,
     "sha1": "9ed9b2c89c86cf5297c81daac87fead25a3a9dbf"
@@ -8249,15 +8339,6 @@
     "excluded": true
   },
   {
-    "path": "brain/gcp_training_manager.py",
-    "type": "file",
-    "size": 7441,
-    "last_modified": "2025-09-21T14:34:26.334096+00:00",
-    "lang": "py",
-    "line_count": 186,
-    "sha1": "c9e10197d5f9eefa0aec1f35d0eb7dbdd69642c2"
-  },
-  {
     "path": "brain/_bootstrap.py",
     "type": "file",
     "size": 251,
@@ -8265,15 +8346,6 @@
     "lang": "py",
     "line_count": 6,
     "sha1": "6a8409dcfdab1cdab6f1a51d06f98a044f9895b1"
-  },
-  {
-    "path": "brain/STABLE_CONFIG.md",
-    "type": "file",
-    "size": 1379,
-    "last_modified": "2025-09-17T07:55:35.864287+00:00",
-    "lang": "md",
-    "line_count": 36,
-    "sha1": "beea146f6290ccdd421adeb9f82340270a6f17e0"
   },
   {
     "path": "brain/__init__.py",
@@ -8294,7 +8366,12 @@
     "sha1": "e5ef805b6eeb78378c3150a11f1ff61ec1be81fa"
   },
   {
-    "path": "brain/validate_stable_config.py",
+    "path": "brain/tools/__pycache__/",
+    "type": "dir",
+    "excluded": true
+  },
+  {
+    "path": "brain/tools/validate_stable_config.py",
     "type": "file",
     "size": 3770,
     "last_modified": "2025-09-17T07:46:11.478024+00:00",
@@ -8303,63 +8380,49 @@
     "sha1": "ce55b5d1aace79cb6b85a076e2b2a679d480b64e"
   },
   {
-    "path": "brain/brain_main.py",
+    "path": "brain/tools/vllm_brain_wrapper.py",
     "type": "file",
-    "size": 21707,
-    "last_modified": "2025-09-17T07:46:11.375177+00:00",
+    "size": 10076,
+    "last_modified": "2025-09-22T15:36:56.973021+00:00",
     "lang": "py",
-    "line_count": 480,
-    "sha1": "26b6b97be9f8c4430e60ec6ab52476bc73ae48d0"
+    "line_count": 263,
+    "sha1": "f59a5aac398610fc27011e1a1ef711c5ee53b800"
   },
   {
-    "path": "brain/tools_utilities/scripts/pipeline_orchestrator.py",
+    "path": "brain/core/component_registry.py",
     "type": "file",
-    "size": 381,
-    "last_modified": "2025-09-17T07:46:11.477899+00:00",
+    "size": 6737,
+    "last_modified": "2025-09-24T08:13:23.809729+00:00",
     "lang": "py",
-    "line_count": 17,
-    "sha1": "b54f18e875198587072f069bbb380c44647d17d5"
+    "line_count": 186,
+    "sha1": "3ae584e180623d7d51faeea132ff12b792948155"
   },
   {
-    "path": "brain/tools/__pycache__/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/tools/goal_poll.py",
+    "path": "brain/core/__init__.py",
     "type": "file",
-    "size": 605,
-    "last_modified": "2025-09-17T07:46:11.477483+00:00",
+    "size": 254,
+    "last_modified": "2025-09-24T08:13:23.809666+00:00",
     "lang": "py",
-    "line_count": 16,
-    "sha1": "9546ba6747a943b88df2bc3b89ee107132f85af0"
-  },
-  {
-    "path": "brain/tools/task_bridge.py",
-    "type": "file",
-    "size": 3617,
-    "last_modified": "2025-09-17T07:46:11.477591+00:00",
-    "lang": "py",
-    "line_count": 88,
-    "sha1": "ef4e5acd6099abf0e4c65c6152690bc9a9406bed"
-  },
-  {
-    "path": "brain/tools/README.md",
-    "type": "file",
-    "size": 4155,
-    "last_modified": "2025-09-17T07:55:36.083939+00:00",
-    "lang": "md",
-    "line_count": 108,
-    "sha1": "5ab8428f958bdf403c14f654e1657ea536abf01e"
+    "line_count": 10,
+    "sha1": "8545a84ab530214f420e35500c9a3264778d6d70"
   },
   {
     "path": "brain/core/README.md",
     "type": "file",
-    "size": 3789,
-    "last_modified": "2025-09-24T07:58:30.897637+00:00",
+    "size": 5694,
+    "last_modified": "2025-09-24T08:13:23.809543+00:00",
     "lang": "md",
-    "line_count": 103,
-    "sha1": "929af9b3435dd8f17108d38bea4b29a87a494954"
+    "line_count": 151,
+    "sha1": "dd1e21e8f574fc11f5ecfb2244b5285811205b57"
+  },
+  {
+    "path": "brain/core/brain_orchestrator.py",
+    "type": "file",
+    "size": 14017,
+    "last_modified": "2025-09-24T08:21:09.657887+00:00",
+    "lang": "py",
+    "line_count": 347,
+    "sha1": "403d5d449573b59276fb6a21da99d8a263423760"
   },
   {
     "path": "brain/archive/superseded_brain_simulation/.superseded.embodied_brain_simulation copy.py",
@@ -8414,117 +8477,6 @@
     "lang": "py",
     "line_count": 527,
     "sha1": "37abfc4b47a9115e254360ccd97dcd4ce3229b73"
-  },
-  {
-    "path": "brain/externals/vllm_brain_wrapper.py",
-    "type": "file",
-    "size": 10076,
-    "last_modified": "2025-09-22T15:36:56.973021+00:00",
-    "lang": "py",
-    "line_count": 263,
-    "sha1": "f59a5aac398610fc27011e1a1ef711c5ee53b800"
-  },
-  {
-    "path": "brain/externals/dummy/dummy.txt",
-    "type": "file",
-    "size": 11,
-    "last_modified": "2025-09-17T07:46:11.377529+00:00",
-    "lang": "txt",
-    "line_count": 1,
-    "sha1": "2aae6c35c94fcfb415dbe95f408b9ce91ee846ed"
-  },
-  {
-    "path": "brain/externals/file/file.txt",
-    "type": "file",
-    "size": 5,
-    "last_modified": "2025-09-17T07:46:11.377639+00:00",
-    "lang": "txt",
-    "line_count": 1,
-    "sha1": "aaf4c61ddcc5e8a2dabede0f3b482cd9aea9434d"
-  },
-  {
-    "path": "brain/externals/vllm/csrc/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/.gemini/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/tools/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/docker/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/cmake/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/tests/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/vllm/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/requirements/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/docs/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/examples/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/benchmarks/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/.github/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/.buildkite/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/vllm/.git/",
-    "type": "dir",
-    "excluded": true
-  },
-  {
-    "path": "brain/externals/gpl_mod/gpl_mod.py",
-    "type": "file",
-    "size": 41,
-    "last_modified": "2025-09-17T07:46:11.377753+00:00",
-    "lang": "py",
-    "line_count": 2,
-    "sha1": "777e576c36e2befaf4dda339424de6d529362a87"
-  },
-  {
-    "path": "brain/management/configurations/resource_manager/",
-    "type": "dir",
-    "excluded": true
   },
   {
     "path": "brain/simulation_engine/set_viewer.py",
@@ -8723,6 +8675,24 @@
     "lang": "py",
     "line_count": 28,
     "sha1": "066242fe2a6f4407bf271c1dd7351e3a0958f25d"
+  },
+  {
+    "path": "brain/simulation_engine/brain_main.py",
+    "type": "file",
+    "size": 21707,
+    "last_modified": "2025-09-17T07:46:11.375177+00:00",
+    "lang": "py",
+    "line_count": 480,
+    "sha1": "26b6b97be9f8c4430e60ec6ab52476bc73ae48d0"
+  },
+  {
+    "path": "brain/docs/STABLE_CONFIG.md",
+    "type": "file",
+    "size": 1379,
+    "last_modified": "2025-09-17T07:55:35.864287+00:00",
+    "lang": "md",
+    "line_count": 36,
+    "sha1": "beea146f6290ccdd421adeb9f82340270a6f17e0"
   },
   {
     "path": "brain/architecture/__pycache__/",
@@ -9793,11 +9763,11 @@
   {
     "path": "brain/architecture/neural_core/cognitive_systems/resource_management/manager_core.py",
     "type": "file",
-    "size": 33487,
-    "last_modified": "2025-09-17T07:46:11.363743+00:00",
+    "size": 33531,
+    "last_modified": "2025-09-24T08:48:43.961064+00:00",
     "lang": "py",
-    "line_count": 813,
-    "sha1": "412c07962ab6dc56e1a4dc596f655f69434c5faf"
+    "line_count": 814,
+    "sha1": "7247d98a85e82c17a173cfe272a063fb4956adfb"
   },
   {
     "path": "brain/architecture/neural_core/cognitive_systems/resource_management/__init__.py",
@@ -11364,15 +11334,6 @@
     "path": "brain/logs/resource_manager/",
     "type": "dir",
     "excluded": true
-  },
-  {
-    "path": "brain/simulator/README.md",
-    "type": "file",
-    "size": 2990,
-    "last_modified": "2025-09-17T07:55:36.083604+00:00",
-    "lang": "md",
-    "line_count": 89,
-    "sha1": "1fb58ecba8bcdbccbcf96ff39dbb377c0c48d878"
   },
   {
     "path": "brain/ml/training_systems/",
@@ -15873,5 +15834,15 @@
     "lang": "py",
     "line_count": 69,
     "sha1": "a0d0aa2fd95813285de70b48970bce17eb8cf876"
+  },
+  {
+    "path": "brain/.cache/memory/",
+    "type": "dir",
+    "excluded": true
+  },
+  {
+    "path": "brain/.cache/resource_manager/",
+    "type": "dir",
+    "excluded": true
   }
 ]
